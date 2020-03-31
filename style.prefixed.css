@@ -1,0 +1,10 @@
+.song h2 {
+	margin-top: 10px;
+	color: red;
+	font-weight: bold;
+}
+
+.song {
+	margin-left: 20px;
+	margin-right: 10px;
+}
