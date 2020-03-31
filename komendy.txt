@@ -1,0 +1,4 @@
+npm install -g html-validate
+html-validate modu-4.3.html
+
+autoprefixer-cli -o style.prefixed.css style.css
